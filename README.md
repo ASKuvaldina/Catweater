@@ -11,6 +11,5 @@
 <div>(Подключена к проекту зависимость на Spring Mail для рассылки почты)</div>
 <div>(Подключено версионирование БД с использованием flyway (для создания стартовой структуры БД)</div>
 <div>(Шифрование паролей нового пользователя при его регистрации - BCryptPasswordEncoder)</div>
-#Spring Boot JPA (Hibernate) #MySql
 <img src="https://github.com/ASKuvaldina/Catweater/blob/master/example1.png">
-<img src="https://github.com/ASKuvaldina/Catweater/blob/master/example2.png">
+<img src="https://github.com/ASKuvaldina/Catweater/blob/master/example2.PNG">
